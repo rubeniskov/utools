@@ -1,0 +1,3 @@
+[submodule "tools/image"]
+	path = tools/image
+	url = https://github.com/rubeniskov/utools-image
